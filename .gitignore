@@ -1,0 +1,6 @@
+*.un~
+*~
+*exe
+*.swp
+./a.out
+.vscode

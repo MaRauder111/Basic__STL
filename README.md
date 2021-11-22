@@ -24,3 +24,39 @@
 |  unordered_map   | unordered_map, unordered_multimap |
 |  utility   | move(), swap(), pair |
 |  vector   | vector |
+
+### C++ keywords
+
+| Keywords | Keywords | Keywords |
+| :---: | :---: | :--- : |
+| alignas | do
+| alignof | double
+| and | dynamic_cast
+| and_eq | else
+| asm |
+| auto |
+| bitand |
+| bitor |
+| bool |
+| break |
+| case |
+| catch |
+| char |
+| char8_t (since C++20) |
+| char16_t |
+| char32_t |
+| class |
+| compl |
+| concept (since C++20) |
+| const |
+| consteval (since C++20) |
+| constexpr |
+| constinit (since C++20) |
+| const_cast |
+| continue |
+| co_await (since C++20) |
+| co_return (since C++20) |
+| co_yield (since C++20) |
+| decltype |
+| default |
+| delete |
