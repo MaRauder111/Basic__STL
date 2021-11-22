@@ -27,12 +27,12 @@
 
 ### C++ keywords
 
-| Keywords | Keywords | Keywords |
-| :---: | :---: | :--- : |
-| alignas | do
-| alignof | double
-| and | dynamic_cast
-| and_eq | else
+| Keywords | Keywords |
+| :---: | :---: |
+| alignas | do |
+| alignof | double |
+| and | dynamic_cast |
+| and_eq | else |
 | asm |
 | auto |
 | bitand |
